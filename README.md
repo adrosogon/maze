@@ -1,4 +1,4 @@
->Puedes jugar eN: https://makecode.com/_0ghC7fD12dqU
+>Puedes jugar en: https://makecode.com/_0ghC7fD12dqU
 
 ## Use as Extension
 
