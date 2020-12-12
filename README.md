@@ -1,5 +1,4 @@
-
-> Open this page at [https://adrosogon.github.io/maze/](https://adrosogon.github.io/maze/)
+>Puedes jugar eN: https://makecode.com/_0ghC7fD12dqU
 
 ## Use as Extension
 
